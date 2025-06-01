@@ -4,7 +4,7 @@ Bug severity classification is critical for prioritizing software issues effecti
 
 Our approach was evaluated on the NASA PITS and Mozilla bug datasets and compared with traditional embedding-based models like Doc2Vec. Results show that fine-tuning LLMs with contrastive learning improves performance, especially in diverse and imbalanced datasets.
 
-## 🧠 Core Features
+## Core Features
 
 - Contrastive learning using NT-Xent loss to structure the embedding space  
 - Embedding generation using CodeBERT (RoBERTa-based LLM)  
