@@ -36,7 +36,7 @@ Key metrics include **Accuracy** and **F1-score**, especially relevant for imbal
 This work originated as a course project in the graduate course *Applications of LLMs to Software Engineering* at Ontario Tech University. The project was developed by Mosarrat Rumman, Emon Roy, and Anushka Zaman under the supervision of Professor Jeremy Bradbury. It was later extended into a research paper submitted to the COMPSAC 2025 SETA track.
 
 Initial implementation by [Mosarrat Rumman](https://github.com/mosarrat28).  
-Currently owned and maintained under the Software Engineering & Education Research Lab ([SEER Lab](https://github.com/seer-lab)) and the [Software Quality Research Lab (SQRL)](https://www.sqrlab.ca/).
+Currently owned and maintained under the Software Engineering & Education Research Lab ([SEER Lab](https://github.com/seer-lab)).
 
 ## Paper Link
 
